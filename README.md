@@ -8,12 +8,12 @@ AI FormFill is a Chrome extension that helps users fill out web forms quickly an
 
 ## Viewing the Privacy Policy
 
-The privacy policy is available at: https://[your-github-username].github.io/ai-formfill-privacy/
+The privacy policy is available at: https://krikera.github.io/ai-formfill-privacy/
 
 ## Contact
 
 For any questions about our privacy policy, please contact us at:
-privacy@aiformfill.com
+prafulrai522@gmail.com
 
 ## License
 
